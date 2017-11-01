@@ -1,1 +1,1 @@
-mrrobot .build/release/mrrobot
+slackbot: .build/release/mrrobot-nullgr
