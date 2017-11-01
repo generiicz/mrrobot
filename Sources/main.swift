@@ -1,7 +1,7 @@
 import Foundation
 import SlackKit
 
-private let token: String = "xoxb-260396232501-xcxJbrwqPB4LBkpFBT86PxX9"
+private let token: String = "xoxb-260396232501-Rt40q9NALv0x8q7Hfex1voca"
 
 class RobotOrNotBot {
     
