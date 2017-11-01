@@ -1,1 +1,1 @@
-mrrobot-nullgr .build/release/mrrobot
+mrrobot .build/release/mrrobot
